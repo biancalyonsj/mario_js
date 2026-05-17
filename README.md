@@ -3,6 +3,8 @@
 ![image alt](https://github.com/biancalyonsj/mario_js/blob/f91be6b78e3a5eed1a7f03ee513ce2b69febf527/mario_homescreen.jpg)
 
 <p>Created a simple recreation of the classic game Super Mario Bros. using JavaScript</p>
+<p>Check it out here!</p>
+https://biancalyonsj.github.io/mario_js/
 
 <h2>Concepts Learned</h2>
 <h3>DOM Manipulation & Browser APIs</h3>
